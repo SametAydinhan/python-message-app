@@ -1,3 +1,5 @@
+# maksimum 3 dosya eklendiği için readme dosyasını ekleyemedim o yüzden buraya github linki olarak bırakıyorum https://github.com/SametAydinhan/python-message-app
+
 import socket
 import threading
 
